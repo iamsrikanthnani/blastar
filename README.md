@@ -24,29 +24,14 @@ You can play the game online at: [Blastar Game](https://blastar.srikanthnani.com
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
-   ```
-   git clone https://github.com/iamsrikanthnani/blastar.git
-   cd blastar
-   ```
+```
+git clone https://github.com/iamsrikanthnani/blastar.git
+cd blastar
+```
 
-2. Install dependencies:
-
-   ```
-   npm install
-   ```
-
-3. Serve the game locally:
-
-   ```
-   npm run start
-   ```
-
-4. Build for production:
-   ```
-   npm run build
-   ```
+open `index.html` in any browser
 
 ## License
 
